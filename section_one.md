@@ -1,0 +1,15 @@
+Q1: B
+Q2: B
+Q3: B
+Q4: C
+Q5: C
+Q6: B
+Q7: B
+Q8: B
+Q9: B
+Q10: B
+Q11: B
+Q12: A
+Q13: A
+Q14: B
+Q15: B
